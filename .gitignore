@@ -1,0 +1,8 @@
+`venv/
+.idea/
+/dist/
+/maximshumilo_tools.egg-info/
+
+setup.cfg
+setup.py
+
